@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Nova - AI Video OS",
+  "description": "An intent-based video editing platform that eliminates timelines in favor of natural language editing and storyteller intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
